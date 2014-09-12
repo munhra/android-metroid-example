@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		
+		<key>run1.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{2, 8}, {45, 57}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -3}</string>
+			<key>spriteSize</key>
+			<string>{45, 57}</string>
+			<key>spriteSourceSize</key>
+			<string>{49, 67}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{80, 65}, {45, 57}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>run2.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{2, 8}, {41, 57}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -3}</string>
+			<key>spriteSize</key>
+			<string>{41, 57}</string>
+			<key>spriteSourceSize</key>
+			<string>{45, 67}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{94, 0}, {41, 57}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>run3.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{1, 9}, {48, 57}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -4}</string>
+			<key>spriteSize</key>
+			<string>{48, 57}</string>
+			<key>spriteSourceSize</key>
+			<string>{50, 67}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{30, 67}, {48, 57}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>walk1.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{0, 4}, {28, 61}}</string>
+			<key>spriteOffset</key>
+			<string>{-3, -1}</string>
+			<key>spriteSize</key>
+			<string>{28, 61}</string>
+			<key>spriteSourceSize</key>
+			<string>{34, 67}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 67}, {28, 61}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>walk2.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{3, 0}, {30, 65}}</string>
+			<key>spriteOffset</key>
+			<string>{1, 1}</string>
+			<key>spriteSize</key>
+			<string>{30, 65}</string>
+			<key>spriteSourceSize</key>
+			<string>{34, 67}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 0}, {30, 65}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>walk3.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{4, 1}, {28, 65}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -0}</string>
+			<key>spriteSize</key>
+			<string>{28, 65}</string>
+			<key>spriteSourceSize</key>
+			<string>{34, 67}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{32, 0}, {28, 65}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>walk4.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{2, 3}, {30, 63}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -1}</string>
+			<key>spriteSize</key>
+			<string>{30, 63}</string>
+			<key>spriteSourceSize</key>
+			<string>{34, 67}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{62, 0}, {30, 63}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>version</key>
+		<string>1.5.2</string>
+		<key>format</key>
+		<integer>3</integer>
+		<key>size</key>
+		<string>{256, 128}</string>
+		<key>name</key>
+		<string>gAxeWalk</string>
+		<key>premultipliedAlpha</key>
+		<false/>
+		<key>target</key>
+		<dict>
+			<key>name</key>
+			<string>default</string>
+			<key>textureFileName</key>
+			<string>gAxeWalk_default</string>
+			<key>textureFileExtension</key>
+			<string>.png</string>
+			<key>coordinatesFileName</key>
+			<string>gAxeWalk_default</string>
+			<key>coordinatesFileExtension</key>
+			<string>.plist</string>
+			<key>premultipliedAlpha</key>
+			<false/>
+		</dict>
+	</dict>
+</dict>
+</plist>
